@@ -12,7 +12,7 @@ This C++ application allows users to input mathematical expressions in infix not
 ## Functionality
 
 1. **Input**: The user is prompted to enter a mathematical expression in infix notation.
-**Conversion**: The input is processed to convert the expression from infix to postfix notation using operator precedence and parentheses handling.
-2. **Evaluation**: The program evaluates the postfix expression using a stack, applying the appropriate operations.
-3. **Output**: The program displays the postfix expression and the evaluated result.
+2. **Conversion**: The input is processed to convert the expression from infix to postfix notation using operator precedence and parentheses handling.
+3. **Evaluation**: The program evaluates the postfix expression using a stack, applying the appropriate operations.
+4. **Output**: The program displays the postfix expression and the evaluated result.
 
